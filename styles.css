@@ -1,0 +1,20 @@
+h1 {
+    color: orange;
+    background-color: darkseagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#cronch{
+    width: 800px;
+    height: 300px;
+    margin-left: 350px;
+}
+
+#jellyman{
+    width: 1000px;
+    height: 300px;
+}
+
+em{
+    background-color: rgba(195, 255, 0, 0.538);
+}
